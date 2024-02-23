@@ -1,0 +1,26 @@
+-High level programming
+------------------------------------------------------
+scripting(loops and conditional statements)
+----------------
+integers--(+,*,/,%,**)
+floats
+lists
+tuples
+dictoinaries
+sets
+None
+boolean
+
+====================
+===control flow===
+functions
+while,for loops
+if else statement
+====================
+
+======extras========
+conditional statements
+and, or, not
+bitwise operators
+==================================
+lambda
